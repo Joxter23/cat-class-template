@@ -4,17 +4,17 @@ class Cat():
         self.name = "Unknown"
         self.age = 0
     def speak(self):
-        print("Meow")
+        return "Meow"
 
-import cat
 
-Stella = cat.Cat()
+Stella = Cat()
 Stella.name = "Stella"
 Stella.age = 7
 
-Garfield = cat.Cat()
+Garfield = Cat()
 Garfield.name = "Garfield"
 Garfield.age = 50
+
 
 
 
