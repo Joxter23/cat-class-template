@@ -7,13 +7,13 @@ class Cat():
         return "Meow"
 
 
-Stella = Cat()
-Stella.name = "Stella"
-Stella.age = 7
+stella = Cat()
+stella.name = "stella"
+stella.age = 7
 
-Garfield = Cat()
-Garfield.name = "Garfield"
-Garfield.age = 50
+garfield = Cat()
+garfield.name = "garfield"
+garfield.age = 50
 
 
 
